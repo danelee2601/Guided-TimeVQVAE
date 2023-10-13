@@ -133,3 +133,4 @@ dmypy.json
 datasets/UCRArchive_2018
 wandb/
 saved_models/
+datasets/UCR_archive.zip
